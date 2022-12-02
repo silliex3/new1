@@ -1,0 +1,21 @@
+Variable: es una manera de darle un valor algo y convertirlo en variable para su uso. 
+ejemplo: var (algo), asigna el (algo) como una variable
+
+Strings: es simplemente texto, que siempre se colocara entre comillas para que sea 
+tomado como string.
+ejemplo: (abcde) al colocar lo entre comillas, 'abcde' = string
+
+Funciones (argumentos, return): una funcion se puede decir que son sentencias ya 
+programadas para cumplir una accion en especifico. argumento es el codigo o datos 
+con los que trabajara la funcion. return es otra funcion que agregara un resultado 
+especifico como respuesta.
+ejemplo: funcion suma = (+), sumara. el argumento seria lo que sumaria, (1 y 3). 
+el return seria 4 como resultado, o un return que agreguemos en especifico
+         
+Declaraciones if: es una funcion para definir condiciones dentro de la funcion de tal manera que solo se aplican
+si cumplen estas condiciones
+ejemplo: if a = b, es correcto, (a=1) y (b=1), se cumplira la condicion declarada de lo contrario no
+
+Valores booleanos (true, false): se refiere a que cuando se realiza una funcion y esta cumple los parametros
+booleanos tendra una respuesta afirmativa = true (verdadera). de lo contrario una negativa = false (negativa)
+ejemplo: 1<2 = true
